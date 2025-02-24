@@ -1,0 +1,5 @@
+{
+    "editor.overtypeCursorStyle": "underline",
+    "workbench.externalBrowser": "firefox",
+    "mdb.browserCommandForOIDCAuth": "firefox"
+}
