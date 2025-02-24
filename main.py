@@ -73,7 +73,6 @@ label_filename.pack(padx=15, pady=15)
 
 if __name__ == "__main__":
     root.geometry("800x800")
-    # root.resizable(False)?
     root.title("Decrypter")
     root.mainloop()
     shutil.rmtree(temp_home_gnupg)
